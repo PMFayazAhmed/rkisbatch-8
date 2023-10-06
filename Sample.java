@@ -4,6 +4,5 @@ class Sample
     {
       System.out.println("This is a sample java program");
       System.out.println("This is test statement");
-      System.out.println("Hello Java");
     }
   }
